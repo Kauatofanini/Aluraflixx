@@ -2,3 +2,12 @@ body {
     color:orange;
     background:rgb(248, 227, 200);
 }
+body {
+    color:orange;
+    background:rgb(243, 187, 113)
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px rgb(224, 144, 38);
+}
